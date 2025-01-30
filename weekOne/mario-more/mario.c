@@ -30,6 +30,14 @@ void marioPyramids(int n) {
 
         for(int colSpace = 0; colSpace < total; colSpace++) {
             printf("#");
+            
+        }
+
+        printf("  ");
+
+        for(int colSpace = 0; colSpace < total; colSpace++) {
+            printf("#");
+            
         }
         
         printf("\n");
